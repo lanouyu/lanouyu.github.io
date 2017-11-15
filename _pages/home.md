@@ -5,7 +5,13 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/homepage.jpg
   caption:
-excerpt: 'Ouyu Lan'
+excerpt: 'Ouyu Lan
+
+
+
+
+
+'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
