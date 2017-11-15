@@ -4,13 +4,13 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/homepage.jpg
-  caption:
+  caption: "Ouyu Lan"
 excerpt: '
 <br>
 Ouyu Lan
-<br><br>
+<br>
 Major in Computer Science
-<br><br>
+<br>
 Shanghai Jiao Tong University
 <br>
 
