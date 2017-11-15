@@ -6,7 +6,9 @@ header:
   overlay_image: /assets/images/homepage.jpg
   caption:
 excerpt: 'Ouyu Lan
+
 Major in Computer Science
+
 Shanghai Jiao Tong University
 
 
