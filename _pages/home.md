@@ -6,16 +6,15 @@ header:
   overlay_image: /assets/images/homepage.jpg
   caption:
 excerpt: 'Ouyu Lan
-
-
-
+Major in Computer Science
+Shanghai Jiao Tong University
 
 
 '
 feature_row:
   
 intro:
-  - excerpt: 'Contact me; [<i class="fa fa-twitter"></i> @BlueLanouyu](https://twitter.com/BlueLanouyu){: .btn .btn--twitter}'
+ 
 ---
 
 {% include feature_row id="intro" type="center" %}
