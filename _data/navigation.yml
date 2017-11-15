@@ -23,13 +23,13 @@ main:
   #- title: "Quick-Start Guide"
   #  url: /docs/quick-start-guide/
   - title: "About"
-    url: /about/
+    url: /bio/
   - title: "Research"
-    url: /year-archive/
+    url: /research/
   - title: "Project"
-    url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
+    url: /project/
+  - title: "Contact"
+    url: /contact/
 
 
 # documentation links
