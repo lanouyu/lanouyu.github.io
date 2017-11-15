@@ -8,9 +8,9 @@ header:
 excerpt: '
 <br>
 Ouyu Lan
-<br>
+<br><br>
 Major in Computer Science
-<br>
+<br><br>
 Shanghai Jiao Tong University
 <br>
 
