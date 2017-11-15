@@ -42,7 +42,7 @@ staticman:
   path                   : # "_data/comments/{options.slug}"
   requiredFields         : # ['name', 'email', 'message']
   transforms:
-    email                : # "md5"
+    email                : "lanouyu@gmail"
   generatedFields:
     date:
       type               : # "date"
@@ -91,7 +91,7 @@ author:
   avatar           : "/assets/images/bio.JPG"
   bio              : "Change the World."
   location         : "Shanghai, China"
-  email            :
+  email            : "lanouyu@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
