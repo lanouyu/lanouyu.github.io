@@ -8,8 +8,6 @@ toc: true
 
 I am currently studying in [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/), [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) and doing research in [SJTU Speech Lab](https://speechlab.sjtu.edu.cn/) advised by [Prof. Kai Yu](https://speechlab.sjtu.edu.cn/~kyu/). 
 
-My research interests lie in the general area of artificial intelligence, especially in language processing and understanding. 
-
 ## BASIC INFO
 * Gender: Female
 * Nationality: SHE (畲族)
@@ -21,6 +19,11 @@ My research interests lie in the general area of artificial intelligence, especi
 	* B.E. in Computer Science and Technology
 * Affiliated High School of Minzu University of China
 	* Sept. 2011 - Jun. 2014
+
+## RESEARCH INTERESTS
+* Language procesing and understanding
+* Machine Learning
+* Artificial Intelligence
 
 ## PUBLICATIONS
 [1] **Ouyu Lan**, Su Zhu, and Kai Yu, “Semi-Supervised Training Using Adversarial Multi-Task Learning for Spoken Language Understanding”, submitted to *IEEE International Conference on Acoustics, Speech, and Signal Processing*, 2018, under review
