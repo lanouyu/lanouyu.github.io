@@ -1,5 +1,6 @@
 ---
-title: "SEMI-SUPERVISED TRAINING USING ADVERSARIAL MULTI-TASK LEARNING FOR SPOKEN LANGUAGE UNDERSTANDING"
+title: "Semi-Supervised Training Using Adversarial Multi-Task Learning for Spoken Language Understanding"
+read_time: false
 tags:
   - Spoken Language Understanding
   - Multi-Task Learning
