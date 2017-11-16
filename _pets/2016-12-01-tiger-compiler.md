@@ -1,13 +1,12 @@
 ---
-title: "Machine Reading Comprehension"
+title: "Tiger Compiler"
 read_time: false
 tags:
-  - Machine Reading Comprehension
-  - Multi-Hop Architecture
-  - Attention Mechanism
+  - Tiger Compiler
 ---
 
-* Developed a gated-attention framework by merging the multi-hop architecture and attention mechanism.
-* Solved cloze-style questions in consecutive sentences and achieved 77.90\% on test set (baseline 50\%).
-* Implemented in *PyTorch*.
+* Complemented Tiger compiler in Java.
+* Followed "Modern Compiler Implementation in Java" written by W. Andrew.
+![][compiler]
+[compiler]: /assets/images/compiler.png
 * [Open Source](https://github.com/lanouyu/Machine-Reading-Comprehension)
