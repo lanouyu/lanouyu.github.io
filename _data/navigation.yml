@@ -28,8 +28,6 @@ main:
     url: /research/
   - title: "Projects"
     url: /projects/
-  - title: "Search"
-    url: /search/
   - title: "Contact"
     url: /contact/
 
