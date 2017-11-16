@@ -26,8 +26,10 @@ main:
     url: /bio/
   - title: "Research"
     url: /research/
-  - title: "Project"
-    url: /project/
+  - title: "Projects"
+    url: /projects/
+  - title: "Search"
+    url: /search/
   - title: "Contact"
     url: /contact/
 
