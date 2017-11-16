@@ -26,9 +26,9 @@ I am currently studying in [Department of Computer Science and Engineering](http
 * Artificial Intelligence
 
 ## PUBLICATIONS
-[1] **Ouyu Lan**, Su Zhu, and Kai Yu, “Semi-Supervised Training Using Adversarial Multi-Task Learning for Spoken Language Understanding”, submitted to *IEEE International Conference on Acoustics, Speech, and Signal Processing*, 2018, under review
+[1] **Ouyu Lan**, Su Zhu, and Kai Yu, “[Semi-Supervised Training Using Adversarial Multi-Task Learning for Spoken Language Understanding](https://lanouyu.github.io/semi-adv-multi)”, submitted to *IEEE International Conference on Acoustics, Speech, and Signal Processing*, 2018, under review
 
-[2] Su Zhu, **Ouyu Lan**, and Kai Yu, “Robust Spoken Language Understanding with Unsupervised ASR-Error Adaptation”, submitted to *IEEE International Conference on Acoustics, Speech, and Signal Processing*, 2018, under review
+[2] Su Zhu, **Ouyu Lan**, and Kai Yu, “[Robust Spoken Language Understanding with Unsupervised ASR-Error Adaptation](https://lanouyu.github.io/asr-adapt)”, submitted to *IEEE International Conference on Acoustics, Speech, and Signal Processing*, 2018, under review
 
 ## HONORS & AWARDS
 * Academic Excellence Scholarship of SJTU (2015, 2016, 2017)
