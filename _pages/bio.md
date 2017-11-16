@@ -6,7 +6,7 @@ excerpt: "Currently studying in [Department of Computer Science and Engineering]
 toc: true
 ---
 
-Currently studying in [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/), [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) and doing research in [SJTU Speech Lab](https://speechlab.sjtu.edu.cn/) advised by [Prof. Kai Yu](https://speechlab.sjtu.edu.cn/~kyu/).
+Currently studying in [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/), [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) and doing research in [SJTU Speech Lab](https://speechlab.sjtu.edu.cn/) advised by [Prof. Kai Yu](https://speechlab.sjtu.edu.cn/~kyu/). 
 
 ## BASIC INFO
 * Gender: Female
