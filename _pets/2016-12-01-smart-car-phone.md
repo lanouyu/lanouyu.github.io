@@ -7,7 +7,4 @@ tags:
   - Attention Mechanism
 ---
 
-* Developed a gated-attention framework by merging the multi-hop architecture and attention mechanism.
-* Solved cloze-style questions in consecutive sentences and achieved 77.90\% on test set (baseline 50\%).
-* Implemented in *PyTorch*.
-* [Open Source](https://github.com/lanouyu/Machine-Reading-Comprehension)
+* 
