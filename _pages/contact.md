@@ -4,7 +4,7 @@ title: "Contact"
 toc: true
 ---
 
-Ouyu Lan
+**Ouyu Lan**
 
 Department of Computer Science and Engineering
 
