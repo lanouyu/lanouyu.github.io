@@ -7,13 +7,12 @@ header:
   caption: "Ouyu Lan"
 excerpt: '
 <br>
-Ouyu Lan
-<br>
 Major in Computer Science
 <br>
 Shanghai Jiao Tong University
 <br>
-
+Research Interest: NLP, ML, AI
+<br>
 '
 feature_row:
   
