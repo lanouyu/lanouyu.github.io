@@ -5,6 +5,7 @@ tags:
   - Multi-Task Learning
   - Semi-Supervised Learning
   - Adversarial Task Discriminator
+---
 
 * Designed a multitask learning method by neatly merging a unidirectional / bidirectional language model and a slot tagging model in SLU, exploited a shared space for both tasks and two task-specific spaces for classification, extracted generalized language knowledge, and regularized the slot tagging model
 * Developed an adversarial discriminator to obtain more task-independent sharing information for SLU
