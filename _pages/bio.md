@@ -13,16 +13,17 @@ Currently studying in [Department of Computer Science and Engineering](http://ww
 * Nationality: SHE (畲族)
 * Birth: 08/20/1996
 
-## PUBLICATIONS
-[1] **Ouyu Lan**, Su Zhu, and Kai Yu, “Semi-Supervised Training Using Adversarial Multi-Task Learning for Spoken Language Understanding”, submitted to IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018, under review
-[2] Su Zhu, **Ouyu Lan**, and Kai Yu, “Robust Spoken Language Understanding with Unsupervised ASR-Error Adaptation”, submitted to IEEE ICASSP, 2018, under review
-
 ## EDUCATION
 * Shanghai Jiao Tong University (SJTU)
 	* Sept. 2014 - Jun. 2018 (exp.)
 	* B.E. in Computer Science and Technology
 * Affiliated High School of Minzu University of China
 	* Sept. 2011 - Jun. 2014
+
+## PUBLICATIONS
+[1] **Ouyu Lan**, Su Zhu, and Kai Yu, “Semi-Supervised Training Using Adversarial Multi-Task Learning for Spoken Language Understanding”, submitted to IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2018, under review
+
+[2] Su Zhu, **Ouyu Lan**, and Kai Yu, “Robust Spoken Language Understanding with Unsupervised ASR-Error Adaptation”, submitted to IEEE ICASSP, 2018, under review
 
 ## HONORS & AWARDS
 * Academic Excellence Scholarship of SJTU (2015, 2016, 2017)
