@@ -10,7 +10,7 @@ I am currently studying in [Department of Computer Science and Engineering](http
 
 ## BASIC INFO
 * Gender: Female
-* Nationality: SHE (畲族)
+* Nationality: SHE (畲族), Chinese
 * Birth: 08/20/1996
 
 ## EDUCATION
