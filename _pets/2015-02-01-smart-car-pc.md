@@ -1,10 +1,12 @@
 ---
-title: "Machine Reading Comprehension"
+title: "Smart Car (PC)"
 read_time: false
 tags:
-  - Machine Reading Comprehension
-  - Multi-Hop Architecture
-  - Attention Mechanism
+  - OpenCV
+  - Automatic Track Line
+  - SCM 51
 ---
 
-* 
+* Controlled the car by PC to track the black line automaticly.
+* Tested in the VS2008 with OpenCV, and car code is for SCM 51.
+* [Open Source](https://github.com/lanouyu/The-Car-Controlled-by-PC)
