@@ -4,7 +4,7 @@ read_time: false
 tags:
   - OpenCV
   - Automatic Track Line
-  - SCM 51
+  - Smart Car
 ---
 
 * Controlled the car by PC to track the black line automaticly.
