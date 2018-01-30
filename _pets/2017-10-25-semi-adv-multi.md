@@ -8,7 +8,7 @@ tags:
   - Adversarial Task Discriminator
 ---
 
-* Accepted by *IEEE International Conference on Acoustics, Speech, and Signal Processing*, 2018, under review.
+* Accepted by *IEEE International Conference on Acoustics, Speech, and Signal Processing*, 2018.
 
 * Designed a multitask learning method by neatly merging a unidirectional / bidirectional language model and a slot tagging model in SLU.
 
