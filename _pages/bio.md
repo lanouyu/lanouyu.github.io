@@ -1,12 +1,12 @@
 ---
 permalink: /bio/
 title: "Ouyu Lan (兰鸥羽)"
-excerpt: "Currently studying in [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/), [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) and doing research in [SJTU Speech Lab](https://speechlab.sjtu.edu.cn/) advised by [Prof. Kai Yu](https://speechlab.sjtu.edu.cn/~kyu/)."
+excerpt: ""
 
 toc: true
 ---
 
-I am currently studying in [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/), [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) and doing research in [SJTU Speech Lab](https://speechlab.sjtu.edu.cn/) advised by [Prof. Kai Yu](https://speechlab.sjtu.edu.cn/~kyu/). 
+I am currently a master student of Computer Science in [University of Southern California](https://www.cs.usc.edu/). I received B.E. degree in Computer Science and Technology at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) and did research in [SJTU Speech Lab](https://speechlab.sjtu.edu.cn/) advised by [Prof. Kai Yu](https://speechlab.sjtu.edu.cn/~kyu/). 
 
 ## BASIC INFO
 * Gender: Female
@@ -14,21 +14,24 @@ I am currently studying in [Department of Computer Science and Engineering](http
 * Birth: 08/20/1996
 
 ## EDUCATION
+* University of Southern California (USC)
+	* Aug. 2018 - May 2020 (exp.)
+	* MS in Computer Science
 * Shanghai Jiao Tong University (SJTU)
-	* Sept. 2014 - Jun. 2018 (exp.)
+	* Sept. 2014 - Jun. 2018 
 	* B.E. in Computer Science and Technology
 * Affiliated High School of Minzu University of China
 	* Sept. 2011 - Jun. 2014
 
 ## RESEARCH INTERESTS
-* Language procesing and understanding
+* Language Procesing and Understanding
 * Machine Learning
 * Artificial Intelligence
 
 ## PUBLICATIONS
-[1] **Ouyu Lan**, Su Zhu, and Kai Yu, “[Semi-Supervised Training Using Adversarial Multi-Task Learning for Spoken Language Understanding](https://lanouyu.github.io/semi-adv-multi)”, submitted to *IEEE International Conference on Acoustics, Speech, and Signal Processing*, 2018, under review
+[1] **Ouyu Lan**, Su Zhu, and Kai Yu, “[Semi-Supervised Training Using Adversarial Multi-Task Learning for Spoken Language Understanding](https://lanouyu.github.io/semi-adv-multi)”, in *2018 IEEE International Conference on Acoustics, Speech and Signal Processing*, 2018, pp. 6049-6053.
 
-[2] Su Zhu, **Ouyu Lan**, and Kai Yu, “[Robust Spoken Language Understanding with Unsupervised ASR-Error Adaptation](https://lanouyu.github.io/asr-adapt)”, submitted to *IEEE International Conference on Acoustics, Speech, and Signal Processing*, 2018, under review
+[2] Su Zhu, **Ouyu Lan**, and Kai Yu, “[Robust Spoken Language Understanding with Unsupervised ASR-Error Adaptation](https://lanouyu.github.io/asr-adapt)”, in *2018 IEEE International Conference on Acoustics, Speech and Signal Processing*, 2018, pp. 6179-6183.
 
 ## HONORS & AWARDS
 * Academic Excellence Scholarship of SJTU (2015, 2016, 2017)
@@ -40,8 +43,6 @@ I am currently studying in [Department of Computer Science and Engineering](http
 	* C, C++, Python, Lua, Shell
 * Technological Tools 
 	* Torch, PyTorch, Caffe, LATEX, MySQL, Verilog
-* Internship
-	* SDE Intern in Hangzhou Fayang Network Technology Co., Ltd 
 * Translation
 	* Sutton et al., “Reinforcement Learning: An Introduction” 
 * Social Activities
