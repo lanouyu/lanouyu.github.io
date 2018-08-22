@@ -42,7 +42,7 @@ staticman:
   path                   : # "_data/comments/{options.slug}"
   requiredFields         : # ['name', 'email', 'message']
   transforms:
-    email                : "lanouyu@gmail"
+    email                : "lanouyu@gmail.com"
   generatedFields:
     date:
       type               : # "date"
@@ -90,7 +90,7 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/bio.JPG"
   bio              : "Change the World."
-  location         : "Shanghai, China"
+  location         : "CA, U.S."
   email            : "lanouyu@gmail.com"
   uri              : 
   bitbucket        :

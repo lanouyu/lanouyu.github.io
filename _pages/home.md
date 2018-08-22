@@ -9,7 +9,7 @@ excerpt: '
 <br>
 Major in Computer Science
 <br>
-Shanghai Jiao Tong University
+University of Southern California
 <br>
 Research Interests: NLP, ML, AI
 <br>
