@@ -6,7 +6,7 @@ excerpt: ""
 toc: true
 ---
 
-I am currently a master student of Computer Science in [University of Southern California](https://www.cs.usc.edu/). I received B.E. degree in Computer Science and Technology at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) and did research in [SJTU Speech Lab](https://speechlab.sjtu.edu.cn/) advised by [Prof. Kai Yu](https://speechlab.sjtu.edu.cn/~kyu/). 
+I am currently a master student of Computer Science in [University of Southern California](https://www.cs.usc.edu/) and advised by [Prof. Xiang Ren](http://www-bcf.usc.edu/~xiangren/). I received B.E. degree in Computer Science and Technology at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) and did research in [SJTU Speech Lab](https://speechlab.sjtu.edu.cn/) advised by [Prof. Kai Yu](https://speechlab.sjtu.edu.cn/~kyu/). 
 
 <!--
 ## BASIC INFO
@@ -16,7 +16,7 @@ I am currently a master student of Computer Science in [University of Southern C
 -->
 
 ## RESEARCH INTERESTS
-* Language Procesing and Understanding
+* Natural Language Procesing and Understanding
 * Machine Learning
 * Artificial Intelligence
 
