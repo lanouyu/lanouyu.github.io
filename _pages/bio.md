@@ -8,6 +8,8 @@ toc: true
 
 I am currently a master student of Computer Science in [University of Southern California](https://www.cs.usc.edu/). I received B.E. degree in Computer Science and Technology at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) and did research in [SJTU Speech Lab](https://speechlab.sjtu.edu.cn/) advised by [Prof. Kai Yu](https://speechlab.sjtu.edu.cn/~kyu/). 
 
+[Google Scholar](https://scholar.google.com/citations?authuser=1&user=HRCHFNQAAAAJ)
+
 ## BASIC INFO
 * Gender: Female
 * Nationality: SHE (畲族), Chinese
@@ -29,11 +31,11 @@ I am currently a master student of Computer Science in [University of Southern C
 * Artificial Intelligence
 
 ## PUBLICATIONS
-[1] **Ouyu Lan**, Su Zhu, and Kai Yu, “[Semi-Supervised Training Using Adversarial Multi-Task Learning for Spoken Language Understanding](https://lanouyu.github.io/semi-adv-multi)”, in *2018 IEEE International Conference on Acoustics, Speech and Signal Processing*, 2018, pp. 6049-6053.
+[1] **Ouyu Lan**, Su Zhu, and Kai Yu, “[Semi-Supervised Training Using Adversarial Multi-Task Learning for Spoken Language Understanding](https://speechlab.sjtu.edu.cn/papers/oyl11-lan-icassp18.pdf)”, in *2018 IEEE International Conference on Acoustics, Speech and Signal Processing*, 2018, pp. 6049-6053.
 
-[2] Su Zhu, **Ouyu Lan**, and Kai Yu, “[Robust Spoken Language Understanding with Unsupervised ASR-Error Adaptation](https://lanouyu.github.io/asr-adapt)”, in *2018 IEEE International Conference on Acoustics, Speech and Signal Processing*, 2018, pp. 6179-6183.
+[2] Su Zhu, **Ouyu Lan**, and Kai Yu, “[Robust Spoken Language Understanding with Unsupervised ASR-Error Adaptation](https://speechlab.sjtu.edu.cn/papers/sz128-zhu-icassp18.pdf)”, in *2018 IEEE International Conference on Acoustics, Speech and Signal Processing*, 2018, pp. 6179-6183.
 
-%## WORK EXPERIENCE
+<!--## WORK EXPERIENCE-->
 
 ## HONORS & AWARDS
 * Academic Excellence Scholarship of SJTU (2015, 2016, 2017)

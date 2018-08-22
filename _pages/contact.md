@@ -6,14 +6,12 @@ toc: true
 
 **Ouyu Lan**
 
-Department of Computer Science and Engineering
+Department of Computer Science
 
-Shanghai Jiao Tong University
+USC Viterbi School of Engineering
 
 ---
 
-Tel: +86 18217556808
+Tel: +1(213)275-8464
 
 Email: lanouyu(at)gmail.com
-
-Addr: 3-502 SEIEE Building, 800 Dongchuan Road, Minhang District, Shanghai, China (200240)
