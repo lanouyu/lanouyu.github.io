@@ -5,9 +5,9 @@ tags:
   - Tiger Compiler
 ---
 
-* Complemented Tiger compiler in Java.
+* Complemented Tiger compiler in Java;
 
-* Followed "Modern Compiler Implementation in Java" written by W. Andrew.
+* Followed "Modern Compiler Implementation in Java" written by W. Andrew;
 
 ![][compiler]
 

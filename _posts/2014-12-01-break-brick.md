@@ -6,6 +6,6 @@ tags:
   - GUI
 ---
 
-* My first project.
+* My first project;
 
 * Developed a GUI for game "Break the Brick" in *Python*.
