@@ -5,6 +5,7 @@ excerpt: ""
 
 toc: true
 ---
+[CV](https://drive.google.com/file/d/1JCSfzP9o4xTmkvtVKJKSwxxSo9qMi4ae/view?usp=sharing)
 
 I am currently a master student of Computer Science in [University of Southern California](https://www.cs.usc.edu/) and advised by [Prof. Xiang Ren](http://www-bcf.usc.edu/~xiangren/). I received B.E. degree in Computer Science and Technology at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) and did research in [SJTU Speech Lab](https://speechlab.sjtu.edu.cn/) advised by [Prof. Kai Yu](https://speechlab.sjtu.edu.cn/~kyu/). 
 
