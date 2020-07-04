@@ -5,7 +5,7 @@ excerpt: ""
 
 toc: true
 ---
-[Resume](https://drive.google.com/file/d/1JCSfzP9o4xTmkvtVKJKSwxxSo9qMi4ae/view?usp=sharing)
+<!-- [Resume](https://drive.google.com/file/d/1JCSfzP9o4xTmkvtVKJKSwxxSo9qMi4ae/view?usp=sharing) -->
 
 Currently, I work as a software engineer at Google LLC. I received M.S. degree in Computer Science at [University of Southern California](https://www.cs.usc.edu/), advised by [Prof. Xiang Ren](http://www-bcf.usc.edu/~xiangren/). I received B.E. degree in Computer Science and Technology at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn), advised by [Prof. Kai Yu](https://speechlab.sjtu.edu.cn/~kyu/). 
 
