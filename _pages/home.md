@@ -11,6 +11,8 @@ Major in Computer Science
 <br>
 University of Southern California
 <br>
+Shanghai Jiao Tong University
+<br>
 Research Interests: NLP, ML, AI
 <br>
 '
