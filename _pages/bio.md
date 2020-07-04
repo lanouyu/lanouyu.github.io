@@ -37,7 +37,7 @@ toc: true
 
 <!--## WORK EXPERIENCE-->
 
-## HONORS & AWARDS
+<!-- ## HONORS & AWARDS
 * Academic Excellence Scholarship of SJTU (2015, 2016, 2017)
 * Meritorious Winner of Mathematical Contest in Modeling (2016)
 * Xindong Scholarship of SJTU (2015)
@@ -50,7 +50,7 @@ toc: true
 * Translation
 	* Sutton et al., “Reinforcement Learning: An Introduction” 
 * Social Activities
-	* President of Class, CTO of College Propaganda Department
+	* President of Class, CTO of College Propaganda Department -->
 
 ---
 
