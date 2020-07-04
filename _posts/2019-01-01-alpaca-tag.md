@@ -21,7 +21,7 @@ We introduce an open-source web-based data annotation framework (AlpacaTag) for 
 ## To cite us
 ```markdown
 @InProceedings{
-  acl19alpaca,
+  bill2019alpaca,
   author = {Bill Yuchen Lin and Dongho Lee and Frank F. Xu and Ouyu Lan and Xiang Ren},
   title = {AlpacaTag: An Active Learning-based Crowd Annotation Framework for Sequence Tagging. },
   booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (Demo Track)},
@@ -29,6 +29,3 @@ We introduce an open-source web-based data annotation framework (AlpacaTag) for 
   pages = {58-63},
 }
 ```
-
-## Contact
-If you have any questions about the paper or the code, please feel free to contact Ouyu Lan (lanouyu at gmail dot com) or Xiao Huang (huan183 at usc dot edu).
