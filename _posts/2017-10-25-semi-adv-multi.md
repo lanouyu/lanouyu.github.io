@@ -14,15 +14,8 @@ Ouyu Lan, Su Zhu, and Kai Yu
 
 [Paper](https://speechlab.sjtu.edu.cn/papers/oyl11-lan-icassp18.pdf){: .btn .btn--inverse}
 
-* Designed a multitask learning method by neatly merging a unidirectional / bidirectional language model and a slot tagging model in SLU;
-
-* Exploited a shared space for both tasks and two task-specific spaces for classification, extracted generalized language knowledge, and regularized the slot tagging model;
-
-* Developed an adversarial discriminator to obtain more task-independent sharing information for SLU;
-
-* Implemented in *PyTorch*;
-
-* Achieved the best performance in slot tagging task on both small (ATIS) and large-scale datasets (e.g. improved F1-score from 67.66% to 71.55% with 5k labeled sentences).
+## Abstract
+Spoken language understanding (SLU) usually requires human semantic annotation on collected data, but the process is expensive. In order to make better use of unlabeled data for robust SLU, we propose an adversarial multi-task learning method by merging a bidirectional language model (BLM) and a slot tagging model (STM). As a secondary objective, the BLM is used to learn generalized and unsupervised knowledge with abundant unlabeled data and improve the performance of STM on unseen data samples. We construct a shared space for both tasks and independent private spaces for each task respectively. Additional adversarial task discriminator is also used to obtain more task-independent sharing information. Experiments show that the proposed approaches achieve the state-of-the-art performance on the small scale ATIS benchmark and significantly improve the semi-supervised performance on a large-scale dataset.
 
 ## To cite us
 ```markdown
@@ -33,5 +26,6 @@ Ouyu Lan, Su Zhu, and Kai Yu
   year={2018},
   volume={},
   number={},
-  pages={6049-6053},}
+  pages={6049-6053},
+}
 ```
