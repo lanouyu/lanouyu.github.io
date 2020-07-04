@@ -25,8 +25,6 @@ Spoken language understanding (SLU) usually requires human semantic annotation o
   booktitle={2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
   title={Semi-Supervised Training Using Adversarial Multi-Task Learning for Spoken Language Understanding}, 
   year={2018},
-  volume={},
-  number={},
   pages={6049-6053},
 }
 ```
