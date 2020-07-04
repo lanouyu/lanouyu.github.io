@@ -24,8 +24,6 @@ main:
   #  url: /docs/quick-start-guide/
   - title: "Bio"
     url: /bio/
-  - title: "Research"
-    url: /research/
   - title: "Projects"
     url: /projects/
   - title: "Contact"
