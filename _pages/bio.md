@@ -19,20 +19,15 @@ toc: true
 ## PUBLICATIONS 
 [Google Scholar](https://scholar.google.com/citations?authuser=1&user=HRCHFNQAAAAJ)
 
-[1] **Ouyu Lan**, Su Zhu, and Kai Yu, "[Semi-Supervised Training Using Adversarial Multi-Task Learning for Spoken Language Understanding](https://speechlab.sjtu.edu.cn/papers/oyl11-lan-icassp18.pdf)", in *2018 IEEE International Conference on Acoustics, Speech and Signal Processing*, 2018, pp. 6049-6053.
+[1] **Ouyu Lan**∗, Xiao Huang∗, Bill Yuchen Lin, He Jiang, Liyuan Liu, and Xiang Ren, "[Learning to Contextually Aggregate Multi-Source Supervision for Sequence Labeling](https://arxiv.org/abs/1910.04289)", in *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics*, 2020. [[blog](https://lanouyu.github.io/connet)]
 
-[2] Su Zhu, **Ouyu Lan**, and Kai Yu, "[Robust Spoken Language Understanding with Unsupervised ASR-Error Adaptation](https://speechlab.sjtu.edu.cn/papers/sz128-zhu-icassp18.pdf)", in *2018 IEEE International Conference on Acoustics, Speech and Signal Processing*, 2018, pp. 6179-6183.
+[2] Bill Yuchen Lin, Dong-Ho Lee, Frank F Xu, **Ouyu Lan**, and Xiang Ren, "[AlpacaTag: An Active Learning-based Crowd Annotation Framework for Sequence Tagging](https://www.aclweb.org/anthology/P19-3010.pdf)", in *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations*, 2019, pp. 58-63. [[blog](https://lanouyu.github.io/alpaca-tag)]
 
-[3] Bill Yuchen Lin, Dong-Ho Lee, Frank F Xu, **Ouyu Lan**, and Xiang Ren, "[AlpacaTag: An Active Learning-based Crowd Annotation Framework for Sequence Tagging](https://www.aclweb.org/anthology/P19-3010.pdf)", in *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations*, 2019, pp. 58-63.
+[3] **Ouyu Lan**, Su Zhu, and Kai Yu, "[Semi-Supervised Training Using Adversarial Multi-Task Learning for Spoken Language Understanding](https://speechlab.sjtu.edu.cn/papers/oyl11-lan-icassp18.pdf)", in *2018 IEEE International Conference on Acoustics, Speech and Signal Processing*, 2018, pp. 6049-6053. [[blog](https://lanouyu.github.io/semi-adv-multi)]
 
-[4] **Ouyu Lan**∗, Xiao Huang∗, Bill Yuchen Lin, He Jiang, Liyuan Liu, and Xiang Ren, "[Learning to Contextually Aggregate Multi-Source Supervision for Sequence Labeling](https://arxiv.org/abs/1910.04289)", in *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics*, 2020.
-
+[4] Su Zhu, **Ouyu Lan**, and Kai Yu, "[Robust Spoken Language Understanding with Unsupervised ASR-Error Adaptation](https://speechlab.sjtu.edu.cn/papers/sz128-zhu-icassp18.pdf)", in *2018 IEEE International Conference on Acoustics, Speech and Signal Processing*, 2018, pp. 6179-6183. [[blog](https://lanouyu.github.io/asr-adapt)]
 
 <br/><br/><br/><br/><br/><br/>
-
-
-
-
 
 <!-- ## EDUCATION
 * University of Southern California (USC)
