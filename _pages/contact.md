@@ -1,7 +1,7 @@
 ---
 permalink: /contact/
 title: "Contact"
-toc: true
+toc: false
 ---
 
 Email: lanouyu(at)gmail.com
