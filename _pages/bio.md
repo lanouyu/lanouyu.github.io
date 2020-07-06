@@ -1,6 +1,6 @@
 ---
 permalink: /bio/
-title: "Ouyu Lan (兰鸥羽)"
+title: "Ouyu Lan"
 excerpt: ""
 
 toc: true
